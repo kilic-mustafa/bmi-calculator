@@ -10,6 +10,10 @@ A simple and interactive **BMI (Body Mass Index)** Calculator built using Python
 - BMI calculation and health categorization
 - Responsive and user-friendly design
 
+## Screenshots
+
+![Ekran görüntüsü 2025-04-21 141652](https://github.com/user-attachments/assets/7c8826cf-b9c4-41f4-95c4-8e22c527edd1)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
